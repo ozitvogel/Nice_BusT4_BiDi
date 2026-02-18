@@ -1,3 +1,6 @@
+WIP: forked to make it work with Nice's ESP32 BiDi Module.
+BiDi module needs to be reflashed first, see procedure there: https://github.com/makstech/esphome-BusT4
+
 # ESPHOME component to control Nice drives via Bus T4 protocol ESP32 board based
 
 Based on https://github.com/pruwait/Nice_BusT4.
